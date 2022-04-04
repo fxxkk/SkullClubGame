@@ -2498,3 +2498,341 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2022.04.04-12.38.31:635][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.04.04-12.38.31:639][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
 [2022.04.04-12.38.31:702][337]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2022.04.04-12.45.43:398][123]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.Master_BP_ThirdPersonCharacter
+[2022.04.04-12.45.43:399][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.04-12.46.18:512][316]BlueprintLog: New page: Compile Master_BP_ThirdPersonCharacter
+[2022.04.04-12.46.18:593][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.04.04-12.46.19:186][369]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter
+[2022.04.04-12.46.19:187][369]LogSavePackage: Moving 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Saved/Master_BP_ThirdPersonCharacter2B34A1A7453DDF76D9099597CDE6E2B7.tmp' to 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Content/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.uasset'
+[2022.04.04-12.46.19:203][369]AssetCheck: New page: Asset Save: Master_BP_ThirdPersonCharacter
+[2022.04.04-12.46.19:203][369]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.Master_BP_ThirdPersonCharacter
+[2022.04.04-12.48.30:083][191]LogDerivedDataCache: C:/Users/Felix/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.270 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.04-12.48.32:240][431]BlueprintLog: New page: Compile Master_BP_ThirdPersonCharacter
+[2022.04.04-12.48.32:323][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.04.04-12.48.32:997][493]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter
+[2022.04.04-12.48.32:998][493]LogSavePackage: Moving 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Saved/Master_BP_ThirdPersonCharacter4BEA175545BFA66ADF368F9E0F9FDF6B.tmp' to 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Content/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.uasset'
+[2022.04.04-12.48.33:015][493]AssetCheck: New page: Asset Save: Master_BP_ThirdPersonCharacter
+[2022.04.04-12.48.33:015][493]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.Master_BP_ThirdPersonCharacter
+[2022.04.04-12.51.41:375][633]BlueprintLog: New page: Compile Master_BP_ThirdPersonCharacter
+[2022.04.04-12.51.41:466][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.04.04-12.51.42:143][697]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter
+[2022.04.04-12.51.42:144][697]LogSavePackage: Moving 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Saved/Master_BP_ThirdPersonCharacterE15BAFB0493E7D9369ED4294A902B017.tmp' to 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Content/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.uasset'
+[2022.04.04-12.51.42:161][697]AssetCheck: New page: Asset Save: Master_BP_ThirdPersonCharacter
+[2022.04.04-12.51.42:161][697]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.Master_BP_ThirdPersonCharacter
+[2022.04.04-12.52.11:555][468]BlueprintLog: New page: Compile Master_BP_ThirdPersonCharacter
+[2022.04.04-12.52.11:635][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.04.04-12.52.12:353][535]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter
+[2022.04.04-12.52.12:354][535]LogSavePackage: Moving 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Saved/Master_BP_ThirdPersonCharacterE8FEE3EF427572B5749BC5B6ABBC3DCE.tmp' to 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Content/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.uasset'
+[2022.04.04-12.52.12:371][535]AssetCheck: New page: Asset Save: Master_BP_ThirdPersonCharacter
+[2022.04.04-12.52.12:371][535]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.Master_BP_ThirdPersonCharacter
+[2022.04.04-12.52.58:842][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.04.04-12.52.58:845][840]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.044
+[2022.04.04-12.52.58:845][840]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2022.04.04-12.52.58:867][840]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.Master_BP_ThirdPersonCharacter]
+[2022.04.04-12.52.58:867][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter]
+[2022.04.04-12.52.58:882][840]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter_Auto3
+[2022.04.04-12.52.58:882][840]LogSavePackage: Moving 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Saved/Master_BP_ThirdPersonCharacter_AD243AE1A4676B4E18555DBA5F052EB80.tmp' to 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Saved/Autosaves/Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter_Auto3.uasset'
+[2022.04.04-12.52.58:883][840]LogFileHelpers: Auto-saving content packages took 0.039
+[2022.04.04-12.53.06:831][930]BlueprintLog: New page: Compile Master_BP_ThirdPersonCharacter
+[2022.04.04-12.53.06:909][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.04.04-12.53.07:793][ 18]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter
+[2022.04.04-12.53.07:794][ 18]LogSavePackage: Moving 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Saved/Master_BP_ThirdPersonCharacterA7CDAC8C4325C69944CD5AA923F535B4.tmp' to 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Content/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.uasset'
+[2022.04.04-12.53.07:810][ 18]AssetCheck: New page: Asset Save: Master_BP_ThirdPersonCharacter
+[2022.04.04-12.53.07:810][ 18]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.Master_BP_ThirdPersonCharacter
+[2022.04.04-12.54.05:653][916]LogEditorTransaction: Undo Rename Node
+[2022.04.04-12.54.05:809][916]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.04-12.54.06:806][  2]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2022.04.04-12.54.06:964][  2]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.04-12.54.08:700][192]BlueprintLog: New page: Compile Master_BP_ThirdPersonCharacter
+[2022.04.04-12.54.08:784][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.04.04-12.54.09:345][240]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter
+[2022.04.04-12.54.09:346][240]LogSavePackage: Moving 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Saved/Master_BP_ThirdPersonCharacter68F9491C48F98250055EAC867AA2395F.tmp' to 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Content/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.uasset'
+[2022.04.04-12.54.09:364][240]AssetCheck: New page: Asset Save: Master_BP_ThirdPersonCharacter
+[2022.04.04-12.54.09:364][240]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.Master_BP_ThirdPersonCharacter
+[2022.04.04-12.55.44:190][525]LogSlate: Took 0.017990 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.04.04-12.55.57:660][696]BlueprintLog: New page: Compile Master_BP_ThirdPersonCharacter
+[2022.04.04-12.55.57:744][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.04.04-12.55.58:562][779]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter
+[2022.04.04-12.55.58:564][779]LogSavePackage: Moving 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Saved/Master_BP_ThirdPersonCharacter765DCF42481353028643318ED714F99D.tmp' to 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Content/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.uasset'
+[2022.04.04-12.55.58:580][779]AssetCheck: New page: Asset Save: Master_BP_ThirdPersonCharacter
+[2022.04.04-12.55.58:580][779]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.Master_BP_ThirdPersonCharacter
+[2022.04.04-12.56.26:612][583]BlueprintLog: New page: Compile Master_BP_ThirdPersonCharacter
+[2022.04.04-12.56.26:696][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.04.04-12.56.27:368][650]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter
+[2022.04.04-12.56.27:370][650]LogSavePackage: Moving 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Saved/Master_BP_ThirdPersonCharacter61C6167B48055B3CB033DEAFFCD179DA.tmp' to 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Content/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.uasset'
+[2022.04.04-12.56.27:387][650]AssetCheck: New page: Asset Save: Master_BP_ThirdPersonCharacter
+[2022.04.04-12.56.27:387][650]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.Master_BP_ThirdPersonCharacter
+[2022.04.04-12.58.10:473][238]BlueprintLog: New page: Compile Master_BP_ThirdPersonCharacter
+[2022.04.04-12.58.10:558][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.04.04-12.58.10:694][250]BlueprintLog: New page: Compile Master_BP_ThirdPersonCharacter
+[2022.04.04-12.58.10:779][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.04.04-12.58.11:387][309]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter
+[2022.04.04-12.58.11:388][309]LogSavePackage: Moving 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Saved/Master_BP_ThirdPersonCharacter8AB8D34F4F3AE261C0CE2092B6AECA1C.tmp' to 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Content/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.uasset'
+[2022.04.04-12.58.11:406][309]AssetCheck: New page: Asset Save: Master_BP_ThirdPersonCharacter
+[2022.04.04-12.58.11:406][309]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.Master_BP_ThirdPersonCharacter
+[2022.04.04-12.58.57:513][822]BlueprintLog: New page: Compile Master_BP_ThirdPersonCharacter
+[2022.04.04-12.58.57:596][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.04.04-12.58.58:498][910]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter
+[2022.04.04-12.58.58:500][910]LogSavePackage: Moving 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Saved/Master_BP_ThirdPersonCharacter6673E9B64E4AB9A65C5DD8B074CF6B17.tmp' to 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Content/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.uasset'
+[2022.04.04-12.58.58:517][910]AssetCheck: New page: Asset Save: Master_BP_ThirdPersonCharacter
+[2022.04.04-12.58.58:517][910]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.Master_BP_ThirdPersonCharacter
+[2022.04.04-12.59.15:050][207]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.04-12.59.15:058][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.04-12.59.15:058][207]PIE: New page: PIE session: ThirdPersonMap (Apr 4, 2022, 4:59:15 PM)
+[2022.04.04-12.59.15:085][207]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.04.04-12.59.15:089][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004520s)
+[2022.04.04-12.59.15:089][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004624s)
+[2022.04.04-12.59.15:089][207]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.04-12.59.15:089][207]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.04-12.59.15:090][207]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.04.04-12.59.15:090][207]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2022.04.04-12.59.15:131][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.04.04-12.59.15:134][207]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.04.04-12.59.15:134][207]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.04-12.59.15:134][207]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.04-12.59.15:134][207]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.04-12.59.15:134][207]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.04-12.59.15:134][207]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.04-12.59.15:134][207]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.04-12.59.15:134][207]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.04-12.59.15:134][207]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.04-12.59.15:134][207]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.04-12.59.15:134][207]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.04-12.59.15:134][207]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.04-12.59.15:136][207]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.04-12.59.15:162][207]LogAudioMixer: Display: Using Audio Hardware Device headset (Realtek(R) Audio)
+[2022.04.04-12.59.15:162][207]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.04-12.59.15:162][207]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.04-12.59.15:162][207]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.04-12.59.15:164][207]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2022.04.04-12.59.15:164][207]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2022.04.04-12.59.15:166][207]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2022.04.04-12.59.15:166][207]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2022.04.04-12.59.15:166][207]LogInit: FAudioDevice initialized.
+[2022.04.04-12.59.15:166][207]LogAudio: Display: Audio Device (ID: 32) registered with world 'ThirdPersonMap'.
+[2022.04.04-12.59.15:181][207]LogLoad: Game class is 'Master_BP_ThirdPersonGameMode_C'
+[2022.04.04-12.59.15:183][207]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.04.04-14.59.15
+[2022.04.04-12.59.15:183][207]LogWorld: Bringing up level for play took: 0.001761
+[2022.04.04-12.59.15:185][207]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2022.04.04-12.59.15:187][207]PIE: Server logged in
+[2022.04.04-12.59.15:188][207]PIE: Play in editor total start time 0.13 seconds.
+[2022.04.04-12.59.24:495][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.04-12.59.24:495][981]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.04.04-12.59.24:495][981]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.04-12.59.24:495][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.04-12.59.24:506][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.04-12.59.24:531][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.04-12.59.24:571][981]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.04-12.59.24:571][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.04.04-12.59.24:572][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.04.04-12.59.24:575][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.04-12.59.24:578][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.04.04-12.59.24:642][982]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2022.04.04-12.59.28:371][283]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.04-12.59.28:378][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.04-12.59.28:379][283]PIE: New page: PIE session: ThirdPersonMap (Apr 4, 2022, 4:59:28 PM)
+[2022.04.04-12.59.28:379][283]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.04.04-12.59.28:383][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004549s)
+[2022.04.04-12.59.28:383][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004629s)
+[2022.04.04-12.59.28:383][283]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.04-12.59.28:383][283]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.04-12.59.28:384][283]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.04.04-12.59.28:384][283]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2022.04.04-12.59.28:426][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.04.04-12.59.28:429][283]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.04.04-12.59.28:429][283]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.04-12.59.28:429][283]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.04-12.59.28:429][283]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.04-12.59.28:429][283]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.04-12.59.28:429][283]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.04-12.59.28:429][283]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.04-12.59.28:429][283]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.04-12.59.28:429][283]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.04-12.59.28:429][283]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.04-12.59.28:429][283]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.04-12.59.28:429][283]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.04-12.59.28:431][283]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.04-12.59.28:456][283]LogAudioMixer: Display: Using Audio Hardware Device headset (Realtek(R) Audio)
+[2022.04.04-12.59.28:456][283]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.04-12.59.28:456][283]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.04-12.59.28:456][283]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.04-12.59.28:457][283]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2022.04.04-12.59.28:457][283]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2022.04.04-12.59.28:458][283]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2022.04.04-12.59.28:458][283]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2022.04.04-12.59.28:459][283]LogInit: FAudioDevice initialized.
+[2022.04.04-12.59.28:459][283]LogAudio: Display: Audio Device (ID: 33) registered with world 'ThirdPersonMap'.
+[2022.04.04-12.59.28:471][283]LogLoad: Game class is 'Master_BP_ThirdPersonGameMode_C'
+[2022.04.04-12.59.28:473][283]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.04.04-14.59.28
+[2022.04.04-12.59.28:473][283]LogWorld: Bringing up level for play took: 0.001744
+[2022.04.04-12.59.28:475][283]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2022.04.04-12.59.28:477][283]PIE: Server logged in
+[2022.04.04-12.59.28:477][283]PIE: Play in editor total start time 0.099 seconds.
+[2022.04.04-12.59.52:885][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.04-12.59.52:885][411]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.04.04-12.59.52:885][411]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.04-12.59.52:886][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.04-12.59.52:901][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.04-12.59.52:925][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.04-12.59.52:964][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.04-12.59.52:965][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.04.04-12.59.52:966][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.04.04-12.59.52:973][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.04.04-12.59.53:037][412]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.04.04-13.00.00:044][173]BlueprintLog: New page: Compile Master_BP_ThirdPersonCharacter
+[2022.04.04-13.00.00:123][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.04.04-13.00.00:594][212]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter
+[2022.04.04-13.00.00:595][212]LogSavePackage: Moving 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Saved/Master_BP_ThirdPersonCharacter4E2FB1A0437D307D783714B5B71B60A7.tmp' to 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Content/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.uasset'
+[2022.04.04-13.00.00:611][212]AssetCheck: New page: Asset Save: Master_BP_ThirdPersonCharacter
+[2022.04.04-13.00.00:611][212]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.Master_BP_ThirdPersonCharacter
+[2022.04.04-13.00.01:972][338]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.04-13.00.01:980][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.04-13.00.01:981][338]PIE: New page: PIE session: ThirdPersonMap (Apr 4, 2022, 5:00:01 PM)
+[2022.04.04-13.00.01:981][338]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.04.04-13.00.01:986][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004595s)
+[2022.04.04-13.00.01:986][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004684s)
+[2022.04.04-13.00.01:986][338]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.04-13.00.01:986][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.04-13.00.01:986][338]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.04.04-13.00.01:987][338]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2022.04.04-13.00.02:027][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.04.04-13.00.02:030][338]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2022.04.04-13.00.02:030][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.04-13.00.02:030][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.04-13.00.02:030][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.04-13.00.02:030][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.04-13.00.02:030][338]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.04-13.00.02:030][338]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.04-13.00.02:030][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.04-13.00.02:030][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.04-13.00.02:030][338]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.04-13.00.02:030][338]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.04-13.00.02:030][338]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.04-13.00.02:032][338]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.04-13.00.02:057][338]LogAudioMixer: Display: Using Audio Hardware Device headset (Realtek(R) Audio)
+[2022.04.04-13.00.02:058][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.04-13.00.02:058][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.04-13.00.02:058][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.04-13.00.02:059][338]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2022.04.04-13.00.02:059][338]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2022.04.04-13.00.02:060][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2022.04.04-13.00.02:060][338]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2022.04.04-13.00.02:060][338]LogInit: FAudioDevice initialized.
+[2022.04.04-13.00.02:060][338]LogAudio: Display: Audio Device (ID: 34) registered with world 'ThirdPersonMap'.
+[2022.04.04-13.00.02:074][338]LogLoad: Game class is 'Master_BP_ThirdPersonGameMode_C'
+[2022.04.04-13.00.02:076][338]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.04.04-15.00.02
+[2022.04.04-13.00.02:076][338]LogWorld: Bringing up level for play took: 0.001748
+[2022.04.04-13.00.02:078][338]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2022.04.04-13.00.02:080][338]PIE: Server logged in
+[2022.04.04-13.00.02:081][338]PIE: Play in editor total start time 0.1 seconds.
+[2022.04.04-13.00.08:975][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.04-13.00.08:975][925]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.04.04-13.00.08:975][925]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.04-13.00.08:976][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.04-13.00.08:989][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.04-13.00.09:013][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.04-13.00.09:053][925]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.04-13.00.09:054][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.04.04-13.00.09:055][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.04.04-13.00.09:058][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.04-13.00.09:062][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.04.04-13.00.09:125][926]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.04.04-13.00.30:476][ 35]BlueprintLog: New page: Compile Master_BP_ThirdPersonCharacter
+[2022.04.04-13.00.30:557][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.04.04-13.00.31:031][ 75]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter
+[2022.04.04-13.00.31:032][ 75]LogSavePackage: Moving 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Saved/Master_BP_ThirdPersonCharacterC8EAD4144E5475B3EF64A6BC7A70F2D0.tmp' to 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Content/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.uasset'
+[2022.04.04-13.00.31:049][ 75]AssetCheck: New page: Asset Save: Master_BP_ThirdPersonCharacter
+[2022.04.04-13.00.31:049][ 75]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/Master_BP_ThirdPersonCharacter.Master_BP_ThirdPersonCharacter
+[2022.04.04-13.00.33:315][297]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.04-13.00.33:323][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.04-13.00.33:323][297]PIE: New page: PIE session: ThirdPersonMap (Apr 4, 2022, 5:00:33 PM)
+[2022.04.04-13.00.33:323][297]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.04.04-13.00.33:327][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004570s)
+[2022.04.04-13.00.33:327][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004654s)
+[2022.04.04-13.00.33:327][297]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.04-13.00.33:328][297]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.04-13.00.33:328][297]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.04.04-13.00.33:328][297]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2022.04.04-13.00.33:369][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.04.04-13.00.33:372][297]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2022.04.04-13.00.33:372][297]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.04-13.00.33:372][297]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.04-13.00.33:372][297]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.04-13.00.33:372][297]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.04-13.00.33:372][297]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.04-13.00.33:372][297]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.04-13.00.33:372][297]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.04-13.00.33:372][297]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.04-13.00.33:373][297]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.04-13.00.33:373][297]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.04-13.00.33:373][297]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.04-13.00.33:375][297]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.04-13.00.33:400][297]LogAudioMixer: Display: Using Audio Hardware Device headset (Realtek(R) Audio)
+[2022.04.04-13.00.33:400][297]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.04-13.00.33:400][297]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.04-13.00.33:400][297]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.04-13.00.33:401][297]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2022.04.04-13.00.33:401][297]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2022.04.04-13.00.33:402][297]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2022.04.04-13.00.33:402][297]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2022.04.04-13.00.33:402][297]LogInit: FAudioDevice initialized.
+[2022.04.04-13.00.33:402][297]LogAudio: Display: Audio Device (ID: 35) registered with world 'ThirdPersonMap'.
+[2022.04.04-13.00.33:418][297]LogLoad: Game class is 'Master_BP_ThirdPersonGameMode_C'
+[2022.04.04-13.00.33:420][297]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.04.04-15.00.33
+[2022.04.04-13.00.33:420][297]LogWorld: Bringing up level for play took: 0.001814
+[2022.04.04-13.00.33:422][297]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2022.04.04-13.00.33:424][297]PIE: Server logged in
+[2022.04.04-13.00.33:425][297]PIE: Play in editor total start time 0.102 seconds.
+[2022.04.04-13.01.06:875][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.04-13.01.06:875][221]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.04.04-13.01.06:875][221]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.04-13.01.06:876][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.04-13.01.06:885][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.04-13.01.06:911][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.04-13.01.06:952][221]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.04-13.01.06:952][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2022.04.04-13.01.06:953][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2022.04.04-13.01.06:957][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.04-13.01.06:960][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.04.04-13.01.07:025][222]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.04.04-13.01.21:682][802]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Mannequin/Animations/BS_Unarmed.BS_Unarmed
+[2022.04.04-13.01.21:682][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.04-13.01.21:699][802]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.04-13.01.21:867][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.04-13.01.22:015][802]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.04.04-13.02.44:877][260]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2022.04.04-13.02.45:643][332]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.04.04-13.04.13:674][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.04.04-13.04.13:677][390]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.047
+[2022.04.04-13.04.13:677][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/BS_Unarmed] ([1] browsable assets)...
+[2022.04.04-13.04.13:693][390]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/Mannequin/Animations/BS_Unarmed.BS_Unarmed]
+[2022.04.04-13.04.13:693][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/BS_Unarmed]
+[2022.04.04-13.04.13:694][390]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mannequin/Animations/BS_Unarmed_Auto4
+[2022.04.04-13.04.13:695][390]LogSavePackage: Moving 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Saved/BS_Unarmed_Auto4E86AF55F4B056541DD7992B1A5DE5BB2.tmp' to 'C:/Users/Felix/Documents/GitHub/SkullClubGame/SkullClubGame/Saved/Autosaves/Game/Mannequin/Animations/BS_Unarmed_Auto4.uasset'
+[2022.04.04-13.04.13:696][390]LogFileHelpers: Auto-saving content packages took 0.019
+[2022.04.04-13.06.12:222][334]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Felix\Downloads\Fast_Run.fbx)
+[2022.04.04-13.06.12:396][334]LogFbx: Loading FBX Scene from C:\Users\Felix\Downloads\Fast_Run.fbx
+[2022.04.04-13.06.12:449][334]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.04-13.06.16:416][334]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.04-13.06.16:521][334]FBXImport: Error: Mesh contains root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2022.04.04-13.06.16:521][334]FBXImport: Error: Import failed. 
+[2022.04.04-13.06.23:024][334]LogSlate: Window 'Message' being destroyed
+[2022.04.04-13.06.23:030][334]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\Felix\Downloads\Fast_Run.fbx'. Failed to create asset '/Game/Mannequin/Animations/Fast_Run'.
+Please see Output Log for details.
+[2022.04.04-13.06.23:040][334]LogAssetTools: Warning: Failed to import 'C:\Users\Felix\Downloads\Fast_Run.fbx'. Failed to create asset '/Game/Mannequin/Animations/Fast_Run'.
+Please see Output Log for details.
+[2022.04.04-13.06.25:835][526]LogSlate: Window 'Message Log' being destroyed
+[2022.04.04-13.06.25:854][526]LogSlate: Window 'Message Log' being destroyed
+[2022.04.04-13.06.31:723][967]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2022.04.04-13.06.31:723][967]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2022.04.04-13.06.31:740][968]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2022.04.04-13.06.31:740][968]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2022.04.04-13.06.34:003][122]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2022.04.04-13.06.34:003][122]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2022.04.04-13.06.34:020][123]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2022.04.04-13.06.34:020][123]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2022.04.04-13.06.34:747][171]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/Aim_Space_Ironsights.Aim_Space_Ironsights
+[2022.04.04-13.06.34:747][171]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.04.04-13.06.34:759][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.04-13.48.30:304][217]LogDerivedDataCache: C:/Users/Felix/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.251 and deleted 0 file(s) with total size 0 MiB.
